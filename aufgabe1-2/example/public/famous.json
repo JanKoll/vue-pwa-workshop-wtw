@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Alan",
+    "familyname": "Turing",
+    "birth": "1912-06-23",
+    "death": "1954-06-07",
+    "intro": "Alan Turing, in full Alan Mathison Turing, was a British mathematician and logician who made major contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology and also to the new areas later named computer science, cognitive science, artificial intelligence, and artificial life.",
+    "wikilink": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "img": "440px-Alan_Turing_Aged_16.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Tim",
+    "familyname": "Berners-Lee",
+    "birth": "1955-06-08",
+    "death": null,
+    "intro": "Tim Berners-Lee, in full Sir Tim Berners-Lee, is a British computer scientist, generally credited as the inventor of the World Wide Web. In 2004 he was awarded a knighthood by Queen Elizabeth II of the United Kingdom and the inaugural Millennium Technology Prize (€1 million) by the Finnish Technology Award Foundation.",
+    "wikilink": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+    "img": "Sir_Tim_Berners-Lee.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "familyname": "von Neumann",
+    "birth": "1903-12-28",
+    "death": "1957-02-08",
+    "intro": "John von Neumann, original name János Neumann, was a Hungarian-born American mathematician. As an adult, he appended von to his surname; the hereditary title had been granted his father in 1913. Von Neumann grew from child prodigy to one of the world’s foremost mathematicians by his mid-twenties. Important work in set theory inaugurated a career that touched nearly every major branch of mathematics. Von Neumann’s gift for applied mathematics took his work in directions that influenced quantum theory, automata theory, economics, and defense planning. Von Neumann pioneered game theory and, along with Alan Turing and Claude Shannon, was one of the conceptual inventors of the stored-program digital computer.",
+    "wikilink": "https://en.wikipedia.org/wiki/John_von_Neumann",
+    "img": "440px-JohnvonNeumann-LosAlamos.gif"
+  },
+  {
+    "id": 3,
+    "name": "Steve",
+    "familyname": "Wozniak",
+    "birth": "1950-09-11",
+    "death": null,
+    "intro": "Steve Wozniak, byname of Stephen Gary Wozniak, is a American electronics engineer, cofounder, with Steve Jobs, of Apple Computer, and designer of the first commercially successful personal computer.",
+    "wikilink": "https://en.wikipedia.org/wiki/Steve_Wozniak",
+    "img": "Steve_Wozniak_by_Gage_Skidmore_3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bill",
+    "familyname": "Gates",
+    "birth": "1955-10-28",
+    "death": null,
+    "intro": "Bill Gates, in full William Henry Gates III, is a American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world’s largest personal-computer software company.",
+    "wikilink": "https://en.wikipedia.org/wiki/Bill_Gates",
+    "img": "Bill_Gates_2017.jpg"
+  }
+  ]

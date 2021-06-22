@@ -40,7 +40,7 @@ vue add router
 npm install -D sass-loader@^10 sass
 ```
 
-### Vue Commands
+### Vue Commands / Directives
 
 ##### Was benötige ich für die Aufgaben?
 
@@ -49,6 +49,7 @@ npm install -D sass-loader@^10 sass
 - `v-on@click`
 - `v-bind:style`/`v-bind:src`/`v-bind:href`
 - `import Something from './Somewhere'`
+
 [Alle Directives](https://012.vuejs.org/api/directives.html)
 
 ### Daten

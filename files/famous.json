@@ -17,7 +17,7 @@
     "death": null,
     "intro": "Tim Berners-Lee, in full Sir Tim Berners-Lee, is a British computer scientist, generally credited as the inventor of the World Wide Web. In 2004 he was awarded a knighthood by Queen Elizabeth II of the United Kingdom and the inaugural Millennium Technology Prize (€1 million) by the Finnish Technology Award Foundation.",
     "wikilink": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
-    "img": "Sir_Tim_Berners-Lee_(cropped).jpg"
+    "img": "Sir_Tim_Berners-Lee.jpg"
   },
   {
     "id": 2,
@@ -37,7 +37,7 @@
     "death": null,
     "intro": "Steve Wozniak, byname of Stephen Gary Wozniak, is a American electronics engineer, cofounder, with Steve Jobs, of Apple Computer, and designer of the first commercially successful personal computer.",
     "wikilink": "https://en.wikipedia.org/wiki/Steve_Wozniak",
-    "img": "Steve_Wozniak_by_Gage_Skidmore_3_(cropped).jpg"
+    "img": "Steve_Wozniak_by_Gage_Skidmore_3.jpg"
   },
   {
     "id": 4,
@@ -47,6 +47,6 @@
     "death": null,
     "intro": "Bill Gates, in full William Henry Gates III, is a American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world’s largest personal-computer software company.",
     "wikilink": "https://en.wikipedia.org/wiki/Bill_Gates",
-    "img": "Bill_Gates_2017_(cropped).jpg"
+    "img": "Bill_Gates_2017.jpg"
   }
   ]
